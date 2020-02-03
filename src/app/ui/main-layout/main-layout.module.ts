@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MainLayoutComponent } from './main-layout.component';
-import { NbModule } from '../../nb.module';
+import { NbModule } from '../../nebular/nb.module';
 
 @NgModule({
   declarations: [MainLayoutComponent],
